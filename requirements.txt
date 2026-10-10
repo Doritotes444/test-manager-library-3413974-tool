@@ -1,0 +1,4 @@
+# Manager Library - Requerimientos opcionales de la herramienta Seeder
+# Nota: seed.py funciona con la biblioteca estándar de Python sin requerir paquetes externos.
+requests>=2.31.0
+urllib3>=2.0.0
